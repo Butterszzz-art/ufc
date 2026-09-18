@@ -1,0 +1,9 @@
+{
+  "name": "UFC Stream",
+  "short_name": "UFC Stream",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#0A0A0A",
+  "description": "Premium UFC streaming and event management app."
+}
